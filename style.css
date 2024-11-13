@@ -1,0 +1,31 @@
+.main{
+    padding: 0;
+    margin: 0;
+    width: 450px;
+    background-color: rgb(174, 184, 184);
+    border-radius: 10px;
+    margin-left: 35%;
+}
+h1{
+    text-align: center;
+}
+.inputandbutton{
+    text-align: center;
+}
+input{
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+}
+.buttons{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: gray;
+}
+ul{
+    text-align: center;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
